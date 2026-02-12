@@ -1,0 +1,10 @@
+node_modules
+.next
+uploads
+.git
+.gitignore
+*.md
+Dockerfile
+.dockerignore
+.env*
+.claude
